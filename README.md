@@ -1,0 +1,1 @@
+# Penerapan-Model-Neural-Network-Deteksi-Gesture-Tangan-untuk-Transfer-Gambar-ke-Perangkat-Mobile
